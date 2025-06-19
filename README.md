@@ -7,12 +7,25 @@ This project explores how remote work affects employee mental health and satisfa
 ```
 remote-work-mental-health/
 ├── data/
-│   └── Impact_of_Remote_Work_on_Mental_Health.csv
+│   └── Impact_of_Remote_Work_on_Mental_Health.csv         # Public dataset from Kaggle
+│
 ├── notebooks/
-│   └── WQD7001_Project.ipynb
-├── requirements.txt
-├── README.md
-└── results/
+│   └── WQD7001_Project.ipynb                               # Full analysis and modeling notebook
+│
+├── model/
+│   └── final_model.pkl                                     # Trained Random Forest model
+│
+├── results/                                                # Visualizations and evaluation outputs
+│   ├── elbow_method.png                  # Elbow curve for optimal cluster selection
+│   ├── feature_distribution.png          # Multiple pie/bar plots showing feature breakdown
+│   ├── pca_clusters.png                  # PCA-reduced scatter plot with color-coded clusters
+│   ├── sleep_quality_histogram.png       # Histogram for sleep quality distribution
+│   ├── stress_level_barplot.png          # Bar plot showing stress level by category
+│   ├── work_life_scatter.png             # Scatter plot comparing work-life balance factors
+│
+├── requirements.txt                                        # Python dependencies
+├── README.md                                               # Project summary and reproducibility instructions
+
 ```
 
 ## Setup Instructions
