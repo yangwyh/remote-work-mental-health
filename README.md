@@ -28,7 +28,7 @@ remote-work-mental-health/
 
 ```
 
-### 📊 Key Visualizations
+### Key Visualizations
 
 ![Elbow Method](results/elbow_method.png)
 ![PCA Clusters](results/pca_clusters.png)
