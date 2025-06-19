@@ -39,7 +39,6 @@ No personally identifiable information is used.
 - Fixed random seed for consistent results
 - Clear documentation using markdown cells in notebooks
 - All source code tracked with version control (Git)
-- Optional: track experiments using MLflow or CSV logs
 
 ## Authors
 
