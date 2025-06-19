@@ -63,8 +63,6 @@ No personally identifiable information is used.
 - Clear documentation using markdown cells in notebooks
 - All source code tracked with version control (Git)
 
-## Authors
-
 ## Group Project Information
 
 **Group Name:** Progression of a Group Project WQD7001, SEM 2 2024/2025 - OCC 1 - Group2
