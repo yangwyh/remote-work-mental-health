@@ -28,6 +28,16 @@ remote-work-mental-health/
 
 ```
 
+### 📊 Key Visualizations
+
+![Elbow Method](results/elbow_method.png)
+![PCA Clusters](results/pca_clusters.png)
+![Feature Distribution](results/feature_distribution.png)
+![Sleep Quality](results/sleep_quality_histogram.png)
+![Stress Level](results/stress_level_barplot.png)
+![Work-Life Scatter](results/work_life_scatter.png)
+
+
 ## Setup Instructions
 
 1. Clone the repository or download the ZIP
