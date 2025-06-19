@@ -12,9 +12,6 @@ remote-work-mental-health/
 ├── notebooks/
 │   └── WQD7001_Project.ipynb                               # Full analysis and modeling notebook
 │
-├── model/
-│   └── final_model.pkl                                     # Trained Random Forest model
-│
 ├── results/                                                # Visualizations and evaluation outputs
 │   ├── elbow_method.png                  # Elbow curve for optimal cluster selection
 │   ├── feature_distribution.png          # Multiple pie/bar plots showing feature breakdown
